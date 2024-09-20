@@ -7,8 +7,8 @@
             </div>
             <div class="col-lg-4 col-md-6 mb-3">
                 <h5>Contact</h5>
-                <p>Email: contact@tdp.org</p>
-                <p>Phone: +123 456 7890</p>
+                <p>Email: rizwanabbasihyd@gmail.com</p>
+                <p>Phone: +92 3336664551</p>
             </div>
             <div class="col-lg-4 col-md-12 mb-3">
                 <h5>Follow Us</h5>

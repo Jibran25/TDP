@@ -206,5 +206,15 @@ footer p {
 }
 
 .fas {
-    background-color: yellow; /* Just for testing */
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white; /* Just for testing */
+    border-radius: 10px;
+}
+
+#nextIcon{
+    margin-left: 85%;
+}
+
+#prevIcon{
+    margin-left: 10px;
 }

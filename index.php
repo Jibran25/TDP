@@ -77,57 +77,115 @@ The determination & zeal of young professionals involved in this unceasing strug
 <div class="container my-5">
     <h2>Meet Our Team</h2>
     <div class="team-slider-wrapper">
+
         <div class="team-slider">
             <!-- Team Member 1 -->
             <div class="team-card">
                 <div class="card">
-                    <img src="assets/images/team/member1.jpeg" class="card-img-top" alt="Team Member 1">
+                    <img src="assets/images/team/member1.png" class="card-img-top" alt="Team Member 1">
                     <div class="card-body">
-                        <h5 class="card-title">John Doe</h5>
-                        <p class="card-text">John is a project manager with over 10 years of experience in development projects. He is passionate about community work and has led numerous successful initiatives.</p>
+                        <h5 class="card-title">Rizwan Ali Abbasi</h5>
+                        <p class="card-text">I am honored to share with you our vision and mission for our NGO. As we embark on this journey to empower communities and transform lives, I am excited about the opportunity to work together with all of you to create lasting change. Our organization is committed to making a difference in the world by addressing some of the most pressing challenges of our time, such as poverty, inequality, and environmental degradation.</p>
+                        <h5 class="card-title">CEO</h5>
                     </div>
                 </div>
             </div>
             <!-- Team Member 2 -->
             <div class="team-card">
                 <div class="card">
-                    <img src="assets/images/team/member2.jpeg" class="card-img-top" alt="Team Member 2">
+                    <img src="assets/images/team/member2.png" style="height:370px;" class="card-img-top" alt="Team Member 2">
                     <div class="card-body">
-                        <h5 class="card-title">Jane Smith</h5>
-                        <p class="card-text">Jane is a health specialist with extensive experience in improving healthcare services in underserved areas. She focuses on enhancing public health initiatives.</p>
+                        <h5 class="card-title">Zainab Baloch</h5>
+                        <p class="card-text">Welcome to TDP, a platform for positive change and progress. As Woman chairperson of this organization, I am proud to lead a team of passionate individuals committed to making a difference in our communities and beyond. 
+Our mission is to fight against poverty, illiteracy, hunger, injustice, global warming, health issues and diseases.
+ 
+                        .</p>
+                        <h5 class="card-title">CHAIR-PERSON TDP</h5>
                     </div>
                 </div>
             </div>
             <!-- Team Member 3 -->
             <div class="team-card">
                 <div class="card">
-                    <img src="assets/images/team/member3.jpeg" class="card-img-top" alt="Team Member 3">
+                    <img src="assets/images/team/member3.png" style="height:370px;" class="card-img-top" alt="Team Member 3">
                     <div class="card-body">
-                        <h5 class="card-title">Ali Khan</h5>
+                        <h5 class="card-title">Marvi Soomro</h5>
                         <p class="card-text">Ali is an expert in disaster management and has been involved in multiple emergency response efforts. His expertise helps in mitigating the effects of natural disasters.</p>
-                    </div>
+                        <h5 class="card-title">M&E Specialist</h5>
+                      </div>
                 </div>
             </div>
             <!-- Team Member 4 -->
             <div class="team-card">
                 <div class="card">
-                    <img src="assets/images/team/member4.jpeg" class="card-img-top" alt="Team Member 4">
+                    <img src="assets/images/team/member4.png" style="height:370px;" class="card-img-top" alt="Team Member 4">
+                    <div class="card-body">
+                        <h5 class="card-title">Jaichand</h5>
+                        <p class="card-text">Emily is a community outreach coordinator with a strong background in volunteer management and event planning.</p>
+                        <h5 class="card-title">Secretary General</h5>
+                      </div>
+                </div>
+            </div>
+
+            <div class="team-card">
+                <div class="card">
+                    <img src="assets/images/team/member5.png" style="height:370px;" class="card-img-top" alt="Team Member 5">
+                    <div class="card-body">
+                        <h5 class="card-title">Batool</h5>
+                        <p class="card-text">Emily is a community outreach coordinator with a strong background in volunteer management and event planning.</p>
+                        <h5 class="card-title">Specialist Woman and Child Protection</h5>
+                      </div>
+                </div>
+            </div>
+
+            <div class="team-card">
+                <div class="card">
+                    <img src="assets/images/team/member6.png" style="height:370px;" class="card-img-top" alt="Team Member 6">
+                    <div class="card-body">
+                        <h5 class="card-title">Zohaib Hassan</h5>
+                        <p class="card-text">Emily is a community outreach coordinator with a strong background in volunteer management and event planning.</p>
+                        <h5 class="card-title">Finance Manager</h5>
+                      </div>
+                </div>
+            </div>
+
+            <div class="team-card">
+                <div class="card">
+                    <img src="assets/images/team/member7.png" style="height:370px;" class="card-img-top" alt="Team Member 6">
+                    <div class="card-body">
+                        <h5 class="card-title">Imran Ali Buriro</h5>
+                        <p class="card-text">Emily is a community outreach coordinator with a strong background in volunteer management and event planning.</p>
+                        <h5 class="card-title">Manager Human Resource & Capacity Building</h5>
+                      </div>
+                </div>
+            </div>
+
+            <div class="team-card">
+                <div class="card">
+                    <img src="assets/images/team/member8.png" style="height:370px;" class="card-img-top" alt="Team Member 6">
+                    <div class="card-body">
+                        <h5 class="card-title">Muhammad Ayoob Ansari</h5>
+                        <p class="card-text">Emily is a community outreach coordinator with a strong background in volunteer management and event planning.</p>
+                        <h5 class="card-title">Manager Operation</h5>
+                      </div>
+                </div>
+            </div>
+
+            <!-- <div class="team-card">
+                <div class="card">
+                    <img src="assets/images/slider/image6.jpeg" class="card-img-top" alt="Team Member 6">
                     <div class="card-body">
                         <h5 class="card-title">Emily Davis</h5>
                         <p class="card-text">Emily is a community outreach coordinator with a strong background in volunteer management and event planning.</p>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <!-- Add more team members as needed -->
         </div>
     </div>
-    <div class="d-flex justify-content-between mt-3">
-        <i id="prevIcon" class="fas fa-chevron-left fa-2x"></i>
-        <i id="nextIcon" class="fas fa-chevron-right fa-2x"></i>
-    </div>
+    <button type="button" id="prevIcon" style="margin-top: 10px" class="fas fa-chevron-left fa-2x">&laquo; Previous</button>
+    <button type="button" id="nextIcon" class="fas fa-chevron-right fa-2x">Next &raquo;</button>
+    
 </div>
-
-
-
 
 <?php include 'includes/footer.php'; ?>
