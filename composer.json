@@ -1,0 +1,17 @@
+{
+    "name": "jibran.ali/tdp-website",
+    "autoload": {
+        "psr-4": {
+            "JibranAli\\TdpWebsite\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jibran ali",
+            "email": "jibran@gmmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}

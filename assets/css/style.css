@@ -1,0 +1,210 @@
+.navbar {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-nav .nav-link {
+    font-size: 1.1rem;
+    padding: 10px 15px;
+}
+
+.navbar-nav .nav-link.active {
+    font-weight: bold;
+    color: #007bff;
+}
+
+/* //----------------- */
+.carousel-item {
+    height: 500px;
+    background-size: cover;
+    position: relative;
+}
+
+.carousel-caption {
+    position: absolute;
+    bottom: 20px;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.carousel-caption h5 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #fff;
+}
+
+.carousel-caption p {
+    font-size: 1.2rem;
+    color: #ddd;
+}
+/* ----------------------- */
+.container {
+    padding: 20px;
+    max-width: 1200px;
+}
+
+h2 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+}
+
+
+.container
+{
+    text-align: justify;
+}
+/* --------------------- */
+
+footer {
+    background-color: #f8f9fa; /* Light background color */
+    color: #6c757d; /* Darker text color for contrast */
+    padding: 20px 0;
+    border-top: 1px solid #e9ecef; /* Subtle border at the top */
+}
+
+footer .container {
+    max-width: 1200px;
+}
+
+footer p {
+    margin: 0;
+    font-size: 1rem;
+    color: #6c757d; /* Ensure text color contrasts with the background */
+}
+
+@media (max-width: 767px) {
+    footer p {
+        font-size: 0.9rem;
+    }
+}
+
+
+/* -------------------- */
+
+@media (max-width: 767px) {
+    .carousel-caption h5 {
+        font-size: 1.5rem;
+    }
+
+    .carousel-caption p {
+        font-size: 1rem;
+    }
+
+    .navbar-nav .nav-link {
+        font-size: 1rem;
+    }
+
+    h2 {
+        font-size: 2rem;
+    }
+}
+
+.carousel-item img {
+    object-fit: cover;
+    height: 100%;
+}
+
+/* -------------------team carousel---------------- */
+/* #teamCarousel .carousel-inner {
+    display: flex;
+}
+
+#teamCarousel .carousel-item {
+    flex: 1 0 100%;
+    display: flex;
+}
+
+#teamCarousel .row {
+    display: flex;
+}
+
+#teamCarousel .card {
+    border: 1px solid #ddd;
+    border-radius: .25rem;
+}
+
+#teamCarousel .card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+@media (max-width: 767px) {
+    #teamCarousel .card-img-top {
+        height: 150px;
+    }
+} */
+
+/* Navigation Buttons */
+/* .carousel-control-prev, .carousel-control-next {
+    width: 5%;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    /* color: #fff; */
+/* } */ 
+
+/* .carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, 0.5); /* Background for icons */
+/* }  */ 
+
+.team-slider-wrapper {
+    overflow: hidden;
+    position: relative;
+}
+
+.team-slider {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+
+.team-card {
+    flex: 0 0 33.3333%;
+    padding: 0 10px;
+    box-sizing: border-box;
+}
+
+.card {
+    height: 100%;
+}
+
+.fas {
+    cursor: pointer;
+    color: #007bff;
+    transition: color 0.3s;
+}
+
+.fas:hover {
+    color: #0056b3;
+}
+
+.d-flex.justify-content-between {
+    position: relative;
+    top: -30px; /* Adjust position as needed */
+}
+
+.icon-navigation {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.icon-navigation i {
+    margin: 0 15px;
+    cursor: pointer;
+    color: #007bff;
+    transition: color 0.3s;
+}
+
+.icon-navigation i:hover {
+    color: #0056b3;
+}
+
+.fas {
+    background-color: yellow; /* Just for testing */
+}
